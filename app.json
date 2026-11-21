@@ -19,7 +19,10 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "themeColor": "#1a2e1f",
+      "description": "A creditor list that stays on this phone.",
+      "bundler": "metro"
     }
   }
 }
